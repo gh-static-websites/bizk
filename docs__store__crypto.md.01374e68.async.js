@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkbizk=self.webpackChunkbizk||[]).push([[457],{14335:function(i,t,_){_.r(t);var o=_(2014),s=_(84350),m=_(93231),n=_(49397),r=_(50959),e=_(11527);function d(){var u=(0,n.eL)(),E=u.texts;return(0,e.jsx)(n.dY,{children:(0,e.jsx)(e.Fragment,{children:(0,e.jsx)(n.Dl,{demo:{id:"docs-store-crypto-demo-0"},previewerProps:{}})})})}t.default=d}}]);
